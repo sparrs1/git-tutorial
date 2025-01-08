@@ -1,1 +1,2 @@
-#Sydney Sparr Git Tutorial
+Sydney Sparr Git Tutorial
+Uchicago Student Resource Guide
